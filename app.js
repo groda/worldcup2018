@@ -8,6 +8,7 @@
 var express = require("express");
 var bodyParser = require("body-parser");
 var routes = require("./routes.js");
+var fs = require("fs");
 var app = express();
 
 app.use(bodyParser.json());
@@ -21,10 +22,11 @@ var server = app.listen(3000, function () {
 
 var wiki = "https://upload.wikimedia.org/wikipedia/commons/";
 var wikith = wiki +"thumb/";
-var data =[
-   {"id": "ARG", "name": "Argentina", "cc": "ar",
-   "flag_svg": wiki+"1/1a/Flag_of_Argentina.svg",
-   "flag_png": wikith+"1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png"},
+var data =  {
+"team":[
+   {"id": "ARG", "name": "Argentina", "cc": "ar", 
+   "flag_svg": wiki+"1/1a/Flag_of_Argentina.svg", 
+   "flag_png": wikith+"1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png"}, 
    {"id": "AUS", "name": "Australia", "cc": "au",
     "flag_svg": wiki+"8/88/Flag_of_Australia_%28converted%29.svg",
     "flag_png": wikith+"8/88/Flag_of_Australia_%28converted%29.svg/320px-Flag_of_Australia_%28converted%29.svg.png"},
@@ -117,8 +119,12 @@ var data =[
     "flag_png": wiki+"c/ce/Flag_of_Tunisia.svg/320px-Flag_of_Tunisia.svg.png"},
    {"id": "URU", "name": "Uruguay", "cc": "uy",
     "flag_svg": wiki+"f/fe/Flag_of_Uruguay.svg",
-    "flag_png": wikith+"f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png"},
-];
+    "flag_png": wikith+"f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png"}
+	],
+};
+
+var content = fs.readFileSync("group_matches.json");
+data["group_match"] = JSON.parse(content);
 
 app.get("/country_data", function(req, res) {
   console.log("Received GET: "+JSON.stringify(req.body));
@@ -126,21 +132,46 @@ app.get("/country_data", function(req, res) {
     var response = data.filter(el => el.name.toLowerCase() == req.query.name.toLowerCase());
   }
   if(req.query.cc) {
-    var response = data.filter(el => el.cc.toLowerCase() == req.query.cc.toLowerCase());
+    var response = data["team"].filter(el => el.cc.toLowerCase() == req.query.cc.toLowerCase());
   }
   if(req.query.id) {
-    var response = data.filter(el => el.id.toLowerCase() == req.query.id.toLowerCase());
-  }
-  if (!response) {
-      return res.send({"status": "error", "message": "no data"});
+    var response = data["team"].filter(el => el.id.toLowerCase() == req.query.id.toLowerCase());
   }
   if (response) {
     return res.send(response[0]);
   }
   else {
-    return res.send({"status": "error", "message": "no country name in query"});
+      return res.send({"status": "error", "message": "no data"});
   }
-});
+});  
+ 
 
+app.get("/all_teams", function(req, res) {
+  console.log("Received GET: "+JSON.stringify(req.body));
+  if(req.query.type) {
+    var k = req.query.type.toLowerCase();
+    var response = data["team"].map(el => el[k]); 
+    if (response) {
+      return res.send(response);
+    }
+  }
+  else {
+    return res.send(JSON.stringify(data["team"],null, '\t')); 
+  }
+});  
+ 
+
+app.get("/all_group_matches", function(req, res) {
+  console.log("Received GET: "+JSON.stringify(req.body));
+  if(req.query.type) {
+    var k = req.query.type.toLowerCase();
+    var response = data["group_match"].map(el => el[k]); 
+    return res.send(JSON.stringify(response,null, '\t')); 
+  }
+  else {
+    return res.send(JSON.stringify(data["group_match"],null, '\t')); 
+  }
+});  
+ 
 
 module.exports = routes;

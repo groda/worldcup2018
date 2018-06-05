@@ -1,0 +1,339 @@
+[
+	{
+		"Team1": "Russia",
+		"Team2": "Saudi Arabia",
+		"Group": "A",
+		"Venue": "Moscow (Luzhniki)",
+		"DateUTC": "6/14/2018 15:00:00"
+	}
+	,
+	{
+		"Team1": "Egypt",
+		"Team2": "Uruguay",
+		"Group": "A",
+		"Venue": "Ekaterinburg",
+		"DateUTC": "6/15/2018 12:00:00"
+	},
+	{
+		"Team1": "Morocco",
+		"Team2": "Iran",
+		"Group": "B",
+		"Venue": "St Petersburg",
+		"DateUTC": "6/15/2018 15:00:00"
+	},
+	{
+		"Team1": "Portugal",
+		"Team2": "Spain",
+		"Group": "B",
+		"Venue": "Sochi",
+		"DateUTC": "6/15/2018 18:00:00"
+	},
+	{
+		"Team1": "France",
+		"Team2": "Australia",
+		"Group": "C",
+		"Venue": "Kazan",
+		"DateUTC": "6/16/2018 10:00:00"
+	},
+	{
+		"Team1": "Argentina",
+		"Team2": "Iceland",
+		"Group": "D",
+		"Venue": "Moscow (Spartak)",
+		"DateUTC": "6/16/2018 13:00:00"
+	},
+	{
+		"Team1": "Peru",
+		"Team2": "Denmark",
+		"Group": "C",
+		"Venue": "Saransk",
+		"DateUTC": "6/16/2018 16:00:00"
+	},
+	{
+		"Team1": "Croatia",
+		"Team2": "Nigeria",
+		"Group": "D",
+		"Venue": "Kaliningrad",
+		"DateUTC": "6/16/2018 19:00:00"
+	},
+	{
+		"Team1": "Costa Rica",
+		"Team2": "Serbia",
+		"Group": "E",
+		"Venue": "Samara",
+		"DateUTC": "6/17/2018 12:00:00"
+	},
+	{
+		"Team1": "Germany",
+		"Team2": "Mexico",
+		"Group": "F",
+		"Venue": "Moscow (Luzhniki)",
+		"DateUTC": "6/17/2018 15:00:00"
+	},
+	{
+		"Team1": "Brazil",
+		"Team2": "Switzerland",
+		"Group": "E",
+		"Venue": "Rostov-on-Don",
+		"DateUTC": "6/17/2018 18:00:00"
+	},
+	{
+		"Team1": "Sweden",
+		"Team2": "South Korea",
+		"Group": "F",
+		"Venue": "Nizhny Novgorod",
+		"DateUTC": "6/18/2018 12:00:00"
+	},
+	{
+		"Team1": "Belgium",
+		"Team2": "Panama",
+		"Group": "G",
+		"Venue": "Sochi",
+		"DateUTC": "6/18/2018 15:00:00"
+	},
+	{
+		"Team1": "Tunisia",
+		"Team2": "England",
+		"Group": "G",
+		"Venue": "Volgograd",
+		"DateUTC": "6/18/2018 18:00:00"
+	},
+	{
+		"Team1": "Poland",
+		"Team2": "Senegal",
+		"Group": "H",
+		"Venue": "Moscow (Spartak)",
+		"DateUTC": "6/19/2018 12:00:00"
+	},
+	{
+		"Team1": "Colombia",
+		"Team2": "Japan",
+		"Group": "H",
+		"Venue": "Saransk",
+		"DateUTC": "6/19/2018 15:00:00"
+	},
+	{
+		"Team1": "Russia",
+		"Team2": "Egypt",
+		"Group": "A",
+		"Venue": "St Petersburg",
+		"DateUTC": "6/19/2018 18:00:00"
+	},
+	{
+		"Team1": "Portugal",
+		"Team2": "Morocco",
+		"Group": "B",
+		"Venue": "Moscow (Luzhniki)",
+		"DateUTC": "6/20/2018 12:00:00"
+	},
+	{
+		"Team1": "Uruguay",
+		"Team2": "Saudi Arabia",
+		"Group": "A",
+		"Venue": "Rostov-on-Don",
+		"DateUTC": "6/20/2018 15:00:00"
+	},
+	{
+		"Team1": "Iran",
+		"Team2": "Spain",
+		"Group": "B",
+		"Venue": "Kazan",
+		"DateUTC": "6/20/2018 18:00:00"
+	},
+	{
+		"Team1": "France",
+		"Team2": "Peru",
+		"Group": "C",
+		"Venue": "Ekaterinburg",
+		"DateUTC": "6/21/2018 12:00:00"
+	},
+	{
+		"Team1": "Denmark",
+		"Team2": "Australia",
+		"Group": "C",
+		"Venue": "Samara",
+		"DateUTC": "6/21/2018 15:00:00"
+	},
+	{
+		"Team1": "Argentina",
+		"Team2": "Croatia",
+		"Group": "D",
+		"Venue": "Nizhny Novgorod",
+		"DateUTC": "6/21/2018 18:00:00"
+	},
+	{
+		"Team1": "Brazil",
+		"Team2": "Costa Rica",
+		"Group": "E",
+		"Venue": "St Petersburg",
+		"DateUTC": "6/22/2018 12:00:00"
+	},
+	{
+		"Team1": "Nigeria",
+		"Team2": "Iceland",
+		"Group": "D",
+		"Venue": "Volgograd",
+		"DateUTC": "6/22/2018 15:00:00"
+	},
+	{
+		"Team1": "Serbia",
+		"Team2": "Switzerland",
+		"Group": "E",
+		"Venue": "Kaliningrad",
+		"DateUTC": "6/22/2018 18:00:00"
+	},
+	{
+		"Team1": "Belgium",
+		"Team2": "Tunisia",
+		"Group": "G",
+		"Venue": "Moscow (Spartak)",
+		"DateUTC": "6/23/2018 12:00:00"
+	},
+	{
+		"Team1": "Germany",
+		"Team2": "Sweden",
+		"Group": "F",
+		"Venue": "Sochi",
+		"DateUTC": "6/23/2018 15:00:00"
+	},
+	{
+		"Team1": "South Korea",
+		"Team2": "Mexico",
+		"Group": "F",
+		"Venue": "Rostov-on-Don",
+		"DateUTC": "6/23/2018 18:00:00"
+	},
+	{
+		"Team1": "England",
+		"Team2": "Panama",
+		"Group": "G",
+		"Venue": "Nizhny Novgorod",
+		"DateUTC": "6/24/2018 12:00:00"
+	},
+	{
+		"Team1": "Japan",
+		"Team2": "Senegal",
+		"Group": "H",
+		"Venue": "Ekaterinburg",
+		"DateUTC": "6/24/2018 15:00:00"
+	},
+	{
+		"Team1": "Poland",
+		"Team2": "Colombia",
+		"Group": "H",
+		"Venue": "Kazan",
+		"DateUTC": "6/24/2018 18:00:00"
+	},
+	{
+		"Team1": "Uruguay",
+		"Team2": "Russia",
+		"Group": "A",
+		"Venue": "Samara",
+		"DateUTC": "6/25/2018 14:00:00"
+	},
+	{
+		"Team1": "Saudi Arabia",
+		"Team2": "Egypt",
+		"Group": "A",
+		"Venue": "Volgograd",
+		"DateUTC": "6/25/2018 14:00:00"
+	},
+	{
+		"Team1": "Spain",
+		"Team2": "Morocco",
+		"Group": "B",
+		"Venue": "Kaliningrad",
+		"DateUTC": "6/25/2018 18:00:00"
+	},
+	{
+		"Team1": "Iran",
+		"Team2": "Portugal",
+		"Group": "B",
+		"Venue": "Saransk",
+		"DateUTC": "6/25/2018 18:00:00"
+	},
+	{
+		"Team1": "Denmark",
+		"Team2": "France",
+		"Group": "C",
+		"Venue": "Moscow (Luzhniki)",
+		"DateUTC": "6/26/2018 14:00:00"
+	},
+	{
+		"Team1": "Australia",
+		"Team2": "Peru",
+		"Group": "C",
+		"Venue": "Sochi",
+		"DateUTC": "6/26/2018 14:00:00"
+	},
+	{
+		"Team1": "Nigeria",
+		"Team2": "Argentina",
+		"Group": "D",
+		"Venue": "St Petersburg",
+		"DateUTC": "6/26/2018 18:00:00"
+	},
+	{
+		"Team1": "Iceland",
+		"Team2": "Croatia",
+		"Group": "D",
+		"Venue": "Rostov-on-Don",
+		"DateUTC": "6/26/2018 18:00:00"
+	},
+	{
+		"Team1": "South Korea",
+		"Team2": "Germany",
+		"Group": "F",
+		"Venue": "Kazan",
+		"DateUTC": "6/27/2018 14:00:00"
+	},
+	{
+		"Team1": "Mexico",
+		"Team2": "Sweden",
+		"Group": "F",
+		"Venue": "Ekaterinburg",
+		"DateUTC": "6/27/2018 14:00:00"
+	},
+	{
+		"Team1": "Serbia",
+		"Team2": "Brazil",
+		"Group": "E",
+		"Venue": "Moscow (Spartak)",
+		"DateUTC": "6/27/2018 18:00:00"
+	},
+	{
+		"Team1": "Switzerland",
+		"Team2": "Costa Rica",
+		"Group": "E",
+		"Venue": "Nizhny Novgorod",
+		"DateUTC": "6/27/2018 18:00:00"
+	},
+	{
+		"Team1": "Japan",
+		"Team2": "Poland",
+		"Group": "H",
+		"Venue": "Volgograd",
+		"DateUTC": "6/28/2018 14:00:00"
+	},
+	{
+		"Team1": "Senegal",
+		"Team2": "Colombia",
+		"Group": "H",
+		"Venue": "Samara",
+		"DateUTC": "6/28/2018 14:00:00"
+	},
+	{
+		"Team1": "England",
+		"Team2": "Belgium",
+		"Group": "G",
+		"Venue": "Kaliningrad",
+		"DateUTC": "6/28/2018 18:00:00"
+	},
+	{
+		"Team1": "Panama",
+		"Team2": "Tunisia",
+		"Group": "G",
+		"Venue": "Saransk",
+		"DateUTC": "6/28/2018 18:00:00"
+	}
+]
