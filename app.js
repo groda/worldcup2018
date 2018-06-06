@@ -129,7 +129,7 @@ data["group_match"] = JSON.parse(content);
 app.get("/country_data", function(req, res) {
   console.log("Received GET: "+JSON.stringify(req.body));
   if(req.query.name) {
-    var response = data.filter(el => el.name.toLowerCase() == req.query.name.toLowerCase());
+    var response = data["team"].filter(el => el.name.toLowerCase() == req.query.name.toLowerCase());
   }
   if(req.query.cc) {
     var response = data["team"].filter(el => el.cc.toLowerCase() == req.query.cc.toLowerCase());
