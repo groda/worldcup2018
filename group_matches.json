@@ -1,337 +1,337 @@
 [
 	{
-		"Team1": "Russia",
-		"Team2": "Saudi Arabia",
+		"cc1": "ru",
+		"cc2": "sa",
 		"Group": "A",
 		"Venue": "Moscow (Luzhniki)",
 		"DateUTC": "6/14/2018 15:00:00"
 	}
 	,
 	{
-		"Team1": "Egypt",
-		"Team2": "Uruguay",
+		"cc1": "eg",
+		"cc2": "uy",
 		"Group": "A",
 		"Venue": "Ekaterinburg",
 		"DateUTC": "6/15/2018 12:00:00"
 	},
 	{
-		"Team1": "Morocco",
-		"Team2": "Iran",
+		"cc1": "ma",
+		"cc2": "ir",
 		"Group": "B",
 		"Venue": "St Petersburg",
 		"DateUTC": "6/15/2018 15:00:00"
 	},
 	{
-		"Team1": "Portugal",
-		"Team2": "Spain",
+		"cc1": "pt",
+		"cc2": "es",
 		"Group": "B",
 		"Venue": "Sochi",
 		"DateUTC": "6/15/2018 18:00:00"
 	},
 	{
-		"Team1": "France",
-		"Team2": "Australia",
+		"cc1": "fr",
+		"cc2": "au",
 		"Group": "C",
 		"Venue": "Kazan",
 		"DateUTC": "6/16/2018 10:00:00"
 	},
 	{
-		"Team1": "Argentina",
-		"Team2": "Iceland",
+		"cc1": "ar",
+		"cc2": "is",
 		"Group": "D",
 		"Venue": "Moscow (Spartak)",
 		"DateUTC": "6/16/2018 13:00:00"
 	},
 	{
-		"Team1": "Peru",
-		"Team2": "Denmark",
+		"cc1": "pe",
+		"cc2": "dk",
 		"Group": "C",
 		"Venue": "Saransk",
 		"DateUTC": "6/16/2018 16:00:00"
 	},
 	{
-		"Team1": "Croatia",
-		"Team2": "Nigeria",
+		"cc1": "hr",
+		"cc2": "ng",
 		"Group": "D",
 		"Venue": "Kaliningrad",
 		"DateUTC": "6/16/2018 19:00:00"
 	},
 	{
-		"Team1": "Costa Rica",
-		"Team2": "Serbia",
+		"cc1": "cr",
+		"cc2": "rs",
 		"Group": "E",
 		"Venue": "Samara",
 		"DateUTC": "6/17/2018 12:00:00"
 	},
 	{
-		"Team1": "Germany",
-		"Team2": "Mexico",
+		"cc1": "de",
+		"cc2": "mx",
 		"Group": "F",
 		"Venue": "Moscow (Luzhniki)",
 		"DateUTC": "6/17/2018 15:00:00"
 	},
 	{
-		"Team1": "Brazil",
-		"Team2": "Switzerland",
+		"cc1": "br",
+		"cc2": "ch",
 		"Group": "E",
 		"Venue": "Rostov-on-Don",
 		"DateUTC": "6/17/2018 18:00:00"
 	},
 	{
-		"Team1": "Sweden",
-		"Team2": "South Korea",
+		"cc1": "se",
+		"cc2": "kr",
 		"Group": "F",
 		"Venue": "Nizhny Novgorod",
 		"DateUTC": "6/18/2018 12:00:00"
 	},
 	{
-		"Team1": "Belgium",
-		"Team2": "Panama",
+		"cc1": "be",
+		"cc2": "pa",
 		"Group": "G",
 		"Venue": "Sochi",
 		"DateUTC": "6/18/2018 15:00:00"
 	},
 	{
-		"Team1": "Tunisia",
-		"Team2": "England",
+		"cc1": "tn",
+		"cc2": "uk",
 		"Group": "G",
 		"Venue": "Volgograd",
 		"DateUTC": "6/18/2018 18:00:00"
 	},
 	{
-		"Team1": "Poland",
-		"Team2": "Senegal",
+		"cc1": "pl",
+		"cc2": "sn",
 		"Group": "H",
 		"Venue": "Moscow (Spartak)",
 		"DateUTC": "6/19/2018 12:00:00"
 	},
 	{
-		"Team1": "Colombia",
-		"Team2": "Japan",
+		"cc1": "co",
+		"cc2": "jp",
 		"Group": "H",
 		"Venue": "Saransk",
 		"DateUTC": "6/19/2018 15:00:00"
 	},
 	{
-		"Team1": "Russia",
-		"Team2": "Egypt",
+		"cc1": "ru",
+		"cc2": "eg",
 		"Group": "A",
 		"Venue": "St Petersburg",
 		"DateUTC": "6/19/2018 18:00:00"
 	},
 	{
-		"Team1": "Portugal",
-		"Team2": "Morocco",
+		"cc1": "pt",
+		"cc2": "ma",
 		"Group": "B",
 		"Venue": "Moscow (Luzhniki)",
 		"DateUTC": "6/20/2018 12:00:00"
 	},
 	{
-		"Team1": "Uruguay",
-		"Team2": "Saudi Arabia",
+		"cc1": "uy",
+		"cc2": "sa",
 		"Group": "A",
 		"Venue": "Rostov-on-Don",
 		"DateUTC": "6/20/2018 15:00:00"
 	},
 	{
-		"Team1": "Iran",
-		"Team2": "Spain",
+		"cc1": "ir",
+		"cc2": "es",
 		"Group": "B",
 		"Venue": "Kazan",
 		"DateUTC": "6/20/2018 18:00:00"
 	},
 	{
-		"Team1": "France",
-		"Team2": "Peru",
+		"cc1": "fr",
+		"cc2": "pe",
 		"Group": "C",
 		"Venue": "Ekaterinburg",
 		"DateUTC": "6/21/2018 12:00:00"
 	},
 	{
-		"Team1": "Denmark",
-		"Team2": "Australia",
+		"cc1": "dk",
+		"cc2": "au",
 		"Group": "C",
 		"Venue": "Samara",
 		"DateUTC": "6/21/2018 15:00:00"
 	},
 	{
-		"Team1": "Argentina",
-		"Team2": "Croatia",
+		"cc1": "ar",
+		"cc2": "hr",
 		"Group": "D",
 		"Venue": "Nizhny Novgorod",
 		"DateUTC": "6/21/2018 18:00:00"
 	},
 	{
-		"Team1": "Brazil",
-		"Team2": "Costa Rica",
+		"cc1": "br",
+		"cc2": "cr",
 		"Group": "E",
 		"Venue": "St Petersburg",
 		"DateUTC": "6/22/2018 12:00:00"
 	},
 	{
-		"Team1": "Nigeria",
-		"Team2": "Iceland",
+		"cc1": "ng",
+		"cc2": "is",
 		"Group": "D",
 		"Venue": "Volgograd",
 		"DateUTC": "6/22/2018 15:00:00"
 	},
 	{
-		"Team1": "Serbia",
-		"Team2": "Switzerland",
+		"cc1": "rs",
+		"cc2": "ch",
 		"Group": "E",
 		"Venue": "Kaliningrad",
 		"DateUTC": "6/22/2018 18:00:00"
 	},
 	{
-		"Team1": "Belgium",
-		"Team2": "Tunisia",
+		"cc1": "be",
+		"cc2": "tn",
 		"Group": "G",
 		"Venue": "Moscow (Spartak)",
 		"DateUTC": "6/23/2018 12:00:00"
 	},
 	{
-		"Team1": "Germany",
-		"Team2": "Sweden",
+		"cc1": "de",
+		"cc2": "se",
 		"Group": "F",
 		"Venue": "Sochi",
 		"DateUTC": "6/23/2018 15:00:00"
 	},
 	{
-		"Team1": "South Korea",
-		"Team2": "Mexico",
+		"cc1": "kr",
+		"cc2": "mx",
 		"Group": "F",
 		"Venue": "Rostov-on-Don",
 		"DateUTC": "6/23/2018 18:00:00"
 	},
 	{
-		"Team1": "England",
-		"Team2": "Panama",
+		"cc1": "uk",
+		"cc2": "pa",
 		"Group": "G",
 		"Venue": "Nizhny Novgorod",
 		"DateUTC": "6/24/2018 12:00:00"
 	},
 	{
-		"Team1": "Japan",
-		"Team2": "Senegal",
+		"cc1": "jp",
+		"cc2": "sn",
 		"Group": "H",
 		"Venue": "Ekaterinburg",
 		"DateUTC": "6/24/2018 15:00:00"
 	},
 	{
-		"Team1": "Poland",
-		"Team2": "Colombia",
+		"cc1": "pl",
+		"cc2": "co",
 		"Group": "H",
 		"Venue": "Kazan",
 		"DateUTC": "6/24/2018 18:00:00"
 	},
 	{
-		"Team1": "Uruguay",
-		"Team2": "Russia",
+		"cc1": "uy",
+		"cc2": "ru",
 		"Group": "A",
 		"Venue": "Samara",
 		"DateUTC": "6/25/2018 14:00:00"
 	},
 	{
-		"Team1": "Saudi Arabia",
-		"Team2": "Egypt",
+		"cc1": "sa",
+		"cc2": "eg",
 		"Group": "A",
 		"Venue": "Volgograd",
 		"DateUTC": "6/25/2018 14:00:00"
 	},
 	{
-		"Team1": "Spain",
-		"Team2": "Morocco",
+		"cc1": "es",
+		"cc2": "ma",
 		"Group": "B",
 		"Venue": "Kaliningrad",
 		"DateUTC": "6/25/2018 18:00:00"
 	},
 	{
-		"Team1": "Iran",
-		"Team2": "Portugal",
+		"cc1": "ir",
+		"cc2": "pt",
 		"Group": "B",
 		"Venue": "Saransk",
 		"DateUTC": "6/25/2018 18:00:00"
 	},
 	{
-		"Team1": "Denmark",
-		"Team2": "France",
+		"cc1": "dk",
+		"cc2": "fr",
 		"Group": "C",
 		"Venue": "Moscow (Luzhniki)",
 		"DateUTC": "6/26/2018 14:00:00"
 	},
 	{
-		"Team1": "Australia",
-		"Team2": "Peru",
+		"cc1": "au",
+		"cc2": "pe",
 		"Group": "C",
 		"Venue": "Sochi",
 		"DateUTC": "6/26/2018 14:00:00"
 	},
 	{
-		"Team1": "Nigeria",
-		"Team2": "Argentina",
+		"cc1": "ng",
+		"cc2": "ar",
 		"Group": "D",
 		"Venue": "St Petersburg",
 		"DateUTC": "6/26/2018 18:00:00"
 	},
 	{
-		"Team1": "Iceland",
-		"Team2": "Croatia",
+		"cc1": "is",
+		"cc2": "hr",
 		"Group": "D",
 		"Venue": "Rostov-on-Don",
 		"DateUTC": "6/26/2018 18:00:00"
 	},
 	{
-		"Team1": "South Korea",
-		"Team2": "Germany",
+		"cc1": "kr",
+		"cc2": "de",
 		"Group": "F",
 		"Venue": "Kazan",
 		"DateUTC": "6/27/2018 14:00:00"
 	},
 	{
-		"Team1": "Mexico",
-		"Team2": "Sweden",
+		"cc1": "mx",
+		"cc2": "se",
 		"Group": "F",
 		"Venue": "Ekaterinburg",
 		"DateUTC": "6/27/2018 14:00:00"
 	},
 	{
-		"Team1": "Serbia",
-		"Team2": "Brazil",
+		"cc1": "rs",
+		"cc2": "br",
 		"Group": "E",
 		"Venue": "Moscow (Spartak)",
 		"DateUTC": "6/27/2018 18:00:00"
 	},
 	{
-		"Team1": "Switzerland",
-		"Team2": "Costa Rica",
+		"cc1": "ch",
+		"cc2": "cr",
 		"Group": "E",
 		"Venue": "Nizhny Novgorod",
 		"DateUTC": "6/27/2018 18:00:00"
 	},
 	{
-		"Team1": "Japan",
-		"Team2": "Poland",
+		"cc1": "jp",
+		"cc2": "pl",
 		"Group": "H",
 		"Venue": "Volgograd",
 		"DateUTC": "6/28/2018 14:00:00"
 	},
 	{
-		"Team1": "Senegal",
-		"Team2": "Colombia",
+		"cc1": "sn",
+		"cc2": "co",
 		"Group": "H",
 		"Venue": "Samara",
 		"DateUTC": "6/28/2018 14:00:00"
 	},
 	{
-		"Team1": "England",
-		"Team2": "Belgium",
+		"cc1": "uk",
+		"cc2": "be",
 		"Group": "G",
 		"Venue": "Kaliningrad",
 		"DateUTC": "6/28/2018 18:00:00"
 	},
 	{
-		"Team1": "Panama",
-		"Team2": "Tunisia",
+		"cc1": "pa",
+		"cc2": "tn",
 		"Group": "G",
 		"Venue": "Saransk",
 		"DateUTC": "6/28/2018 18:00:00"

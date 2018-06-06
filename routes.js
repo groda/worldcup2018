@@ -8,7 +8,9 @@ var appRouter = function (app) {
 	var req5 = "<a href='all_teams?type=name'>"+reqUrl+"all_teams?type=name</a>";
 	var req6 = "<a href='all_teams'>"+reqUrl+"all_teams</a>";
 	var req7 = "<a href='all_group_matches'>"+reqUrl+"all_group_matches</a>";
-    res.status(200).send("Get data for the FIFA World Cup 2018 countries in JSON format.<p>Query by country code (cc), by id, or by name. Example of usage: "+req1 +" or "+req2+ " or "+req3+".<p>Returns:<ul><li>country name<li>country code<li>link to SVG flag image on Wikipedia<li>link to PNG flag icon on Wikipedia</ul>All teams: "+req6+"<p>"+req4+" returns all data (country codes), "+req5+" all country names.<p>All group matches: "+req7+".");
+  var req8 = "<a href='all_group_matches?lang=de'>"+reqUrl+"all_group_matches?lang=de</a>";
+  var req9 = "<a href='country_data?cc=ch&lang=de'>"+reqUrl+"country_data?cc=ch&lang=de</a>";
+    res.status(200).send("Get data for the FIFA World Cup 2018 countries in JSON format.<p>Query by country code (cc), by id, or by name. Example of usage: "+req1 +" or "+req2+ " or "+req3+".<p>Returns:<ul><li>country name<li>country code<li>link to SVG flag image on Wikipedia<li>link to PNG flag icon on Wikipedia</ul>All teams: "+req6+"<p>"+req4+" returns all data (country codes), "+req5+" all country names.<p>All group matches: "+req7+".<p>New: add ?lang=de to query, for instance: "+req8+", "+req9+".");
   });
 }
 
