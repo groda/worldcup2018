@@ -1,27 +1,27 @@
 {
-	"name": "rest-api",
-	"version": "0.0.1",
-	"description": "World Cup 2018 SVG flags",
-	"main": "app.js",
-	"scripts": {
-		"start": "node app.js"
-	},
-	"dependencies": {
-                "express": "^4.12.4",
-		"body-parser": ">=1.20.3"
-	},
-	"engines": {
-		"node": "16.x"
-	},
-	"keywords": [
-		"country flags",
+  "name": "rest-api",
+  "version": "0.0.1",
+  "description": "World Cup 2018 SVG flags",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "body-parser": ">=1.20.3"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [
+    "country flags",
     "SVG",
-		"world cup",
-		"2018",
+    "world cup",
+    "2018",
     "qualified teams",
     "public domain",
     "json",
     "wikipedia"
-	],
-	"license": "MIT"
+  ],
+  "license": "MIT"
 }
