@@ -15,4 +15,4 @@ curl -H "Content-Type: application/json" -X GET  https://kiwi-check.glitch.me/co
 In a new tab, go to: [https://kiwi-check.glitch.me/country_data?cc=uy](https://kiwi-check.glitch.me/country_data?cc=uy)
 
 ## Getting Help
-Open [https://kiwi-check.glitch.me](https://kiwi-check.glitch.me/country_data?cc=uy) to see some more examples
+Open [https://kiwi-check.glitch.me](https://kiwi-check.glitch.me) to see some more examples
